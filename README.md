@@ -1,5 +1,3 @@
-)
-
 🌗 Light / Dark Mode Toggle
 
 A simple and interactive Light/Dark Mode Toggle web project built using HTML, CSS, and JavaScript.
